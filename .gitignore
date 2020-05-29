@@ -8,3 +8,7 @@ node_modules
 .tmp
 path
 resources
+downloads/output.pdf
+downloads/output.mobi
+site/downloads/output.pdf
+*.pdf
