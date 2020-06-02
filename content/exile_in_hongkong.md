@@ -4,7 +4,6 @@ title: Exile in Hong Kong
 subtitle:
 weight: 30
 type: essay
-class: page-one
 abstract:
 ---
 Movement across the China-Hong Kong border between 1945 and 1950 had been unrestricted in both directions.[^9] Many, but by no means all of the refugees crossing the border into the Colony were remnants of Jiang Jieshi’s (1887–1975) nationalist army.[^10]

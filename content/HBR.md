@@ -4,7 +4,6 @@ title: Hou Beiren's Splashed Ink
 subtitle:
 weight: 70
 type: essay
-class: page-one
 abstract:
 ---
 Several published examples of Hou’s landscapes dating from the period between the mid-1950s and late 1970s show that he was still producing landscapes in muted and softly rendered blue-grey and earthen tones, with comparatively rough, abbreviated, and textured outlines gradually giving way to the freer and more expressive use of washes.

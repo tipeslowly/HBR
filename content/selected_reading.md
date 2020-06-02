@@ -4,7 +4,6 @@ title: Selected Reading List
 subtitle:
 weight: 80
 type: essay
-class: page-one
 abstract:
 ---
 **Bliss et al. 2013**

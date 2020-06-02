@@ -4,7 +4,6 @@ title: Bay Area Ink
 subtitle:
 weight: 50
 type: essay
-class: page-one
 abstract:
 ---
 Zhang Daqian was a frequent visitor to California beginning in the mid-1950s. In 1971, he moved to the Monterey Peninsula at Pebble Beach, near Carmel-by-the-Sea, where he remained until retiring to Taiwan in 1978. Through the 1960s and ’70s, Hou Beiren regularly visited Zhang Daqian, and came to meet and know other Chinese artists who worked in the region. These included the Guangzhou-born Lim Tsing-ai (Lin Qingni, 1914–72), Fu Wenyan (1920–), who also had studied with Zhang Daqian in Shanghai; Fong Chungray (1934–), a pioneering Asian American abstract painter and a member of the Taiwan-based Fifth Moon Group (*Wuyue huahui*); and the Malaysian-born Cheng Yet-por (1907–91), who lived in San Jose, and whose painting style resembled that of Qi Baishi (1864–1957).

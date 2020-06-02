@@ -2,7 +2,6 @@
 title: Privacy Policy
 weight: 202
 type: page
-class: page-one
 abstract:
 ---
 

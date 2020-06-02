@@ -4,7 +4,6 @@ title: The War Years
 subtitle:
 weight: 20
 type: essay
-class: page-one
 abstract:
 ---
 

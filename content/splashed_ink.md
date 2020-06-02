@@ -4,7 +4,6 @@ title: Twentieth-Century Revival
 subtitle:
 weight: 60
 type: essay
-class: page-one
 abstract:
 ---
 The process of splashed ink landscape painting (*pomo shanshui*) involves a seemingly unrestrained and arbitrary approach to the application of varying dilutions of ink to paper or silk through a combination of various intensities of spontaneous, semi-intentional and accidental processes that include splattering, dipping and smearing, often using larger brushes heavily loaded with ink that results in an element of chance, to which more deliberate textured brushstrokes can be added in the final stage of the painting so as to transform the gestural abstraction of ink with figures, trees, buildings, bridges and other figurative elements into a representational depiction.
