@@ -9,7 +9,7 @@ abstract:
 ---
 
 
-{{< q-figure id="HBR_studio" class="pdf-two-column" >}}
+{{< q-figure id="HBR_studio" class="pdf-two-column disabled-link" >}}
 
 In the early twentieth century, Chinese ink painting came to be termed ‘national painting’ (*guohua*) or Chinese painting (*zhongguo hua*) to distinguish it from Western forms (*xihua*), and to describe the ink painting tradition inherited from imperial China with its long-defined styles and subject matters of figures, landscapes and flower-and-bird motifs. Debate around the role and nature of China’s *guohua* painting grew in response to the perceived challenge of Western art. One of the particular fascinations of ink painting is that it is not a unified inheritance, but rather a multiplicity of practises and methods, lineages and schools, idioms and styles.
 

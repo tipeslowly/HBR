@@ -129,11 +129,18 @@
   border: none;
 }
 
+
+.disabled-link {
+  cursor: default;
+  pointer-events: none;
+  text-decoration: none;
+}
+
+
 @media print {
   .cover-colophon {
     display: none;
   }
-
 
   /* Make the image span across both colums of text */
   .quire-figure.pdf-two-column {
