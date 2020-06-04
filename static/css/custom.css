@@ -14,7 +14,7 @@
   left: -40px;
 } */
 .quire-cover .quire-page__content {
-    padding-bottom: 240x;
+    padding-bottom: 270px !important;
 }
 
 .quire:not(.no-js) .quire__secondary.is-expanded {
@@ -130,12 +130,15 @@
 }
 
 
-.disabled-link {
+ .quire-figure.disabled-link {
   cursor: default;
   pointer-events: none;
   text-decoration: none;
 }
 
+.quire-figure.disabled-link .q-figure__wrapper span.fig .fig {
+  display: none !important;
+}
 
 @media print {
   .cover-colophon {
