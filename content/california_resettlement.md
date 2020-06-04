@@ -4,7 +4,6 @@ title: California Resettlement
 subtitle:
 weight: 40
 type: essay
-class: page-one
 abstract:
 ---
 In 1956, Hou Beiren and his family were granted refugee status and resettled in the United States. After the passing of the Refugee Relief Act in 1953, the United States Congress had given permission for 5,000 visas to be granted to refugees in Asia, with 2,000 specifically reserved for Chinese with passports endorsed by the Republic of China (ROC).[^15] Known as the Far East Refugee Program (FERP) of the United States Escapee Program, or more simply as the Far East Refugee Program, this initiative focused on the resettlement of a small number of “bona-fide Chinese political refugees who are identified as being in groups or categories having special political or psychological significance.”[^16]  
