@@ -6,6 +6,7 @@ figure_list:
   - id: "HBR_studio"
     src: figures/HBR_studio.png
     caption: "Hou Beiren painting in his studio at the Old Apricot Villa"
+    entryPageSideBySideLayout: true
     credit: ""
   - id: "Fu_Baoshi"
     src: figures/Fu_Baoshi.png

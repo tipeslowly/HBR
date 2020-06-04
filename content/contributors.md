@@ -9,9 +9,6 @@ type: page
 #### Hou Beiren
 Hou Beiren
 
-#### Kevin McLoughlin
-Kevin McLoughlin
-
 #### [Darcy Christ](https://aporia.info)
 Darcy Christ is an Information Architect and Web Developer. His focus is on implementing content management systems that support the natural workflow of creators. He is deeply involved with WordPress and podcasting.
 
@@ -20,3 +17,6 @@ Kikki Lam is a Research Assistant in the Curatorial Department at UMAG. She rece
 
 #### Christopher Mattison
 Mattison’s primary line of research centres around the relationship of text and image in the museum environment. Apart from his curatorial work, Mattison is UMAG’s publisher and series editor for a range of digital programming being developed in conjunction with the Getty’s Arches and Quire platforms.
+
+#### Kevin McLoughlin
+Kevin McLoughlin
