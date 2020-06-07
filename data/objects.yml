@@ -1,7 +1,82 @@
 object_display_order:
+  - title
   - artist
-  - year
-  - dimensions
   - medium
-  - location
+  - dimensions
+  - year
+  - provenance
+  - collection
+  - catalogue
+  - inscription
+  - seals
+
 object_list:
+  - id: 1
+    title: HK Memories | 香港長憶
+    artist: Hou Beiren
+    year: 2019
+    medium: Ink on paper
+    dimensions: 80 cm × 72 cm
+    collection: University Museum and Art Gallery, HKU
+    provenance: Donated by Hou Beiren in November 2019
+    catalogue: HKU.Ca.2019.2460
+    inscription: "In 2019, when Hou Beiren was 103, he made this work of calligraphy to commemorate his time in Hong Kong. In autumn 1949, my wife Zhang Yunqing and I left Beijing and settled in Diamond Hill, Kowloon, where I made a living as a writer. In 1950, my son Hou Yilong was born and then my daughter Hou Dagang in 1952. Making a living as a writer was quite challenging, but the effort I put in was fruitful. I wrote numerous articles, individual prose works and books. During this period, I first met many famous artists such as Zhang Daqian and Zheng Shiqiao, from whom I learned much during our discussions on painting. Many of the articles I published at that time are still valued among the literary community. It has now been half a century since moving to California in autumn 1956. Time waits for no one. I have spent my whole life painting, and now realize that I indeed have grown old. I can still hold a brush, though my hair has turned white. I made this work of calligraphy to express my feelings for all of the renowned individuals and friends who I came to know, and for the University of Hong Kong. Hou Beiren at Old Apricot Villa, 8 August 2019"
+    seals: Hou Beiren's Seal (square relief), Old Apricot Villa (square intaglio), MISSING 1
+    figure:
+      - id: "HK_Memories"
+
+  - id: 2
+    title: Rafts on the Spring River | 春江泛舟圖
+    artist: Hou Beiren
+    year: 2018
+    medium: Ink and colour on paper
+    dimensions: 69 cm × 45 cm
+    collection: University Museum and Art Gallery, HKU
+    provenance: Donated by Hou Beiren in November 2019
+    catalogue: HKU.P.2019.2456
+    inscription: "Painted by Hou Beiren in the Old Apricot Villa at the age of 101"
+    seals: Old Apricot Villa (square relief), Painted by Hou Beiren after Eighty (square relief), Missing 1
+    figure:
+      - id: "Rafts"
+
+  - id: 3
+    title: Frost on Autumn Mountain | 霜染秋山
+    artist: Hou Beiren
+    year: 2018
+    medium: Ink and colour on paper
+    dimensions: 142 cm × 74 cm
+    collection: University Museum and Art Gallery, HKU
+    provenance: Donated by Hou Beiren in November 2019
+    catalogue: HKU.P.2019.2459
+    inscription: "Frost on Autumn Mountain. Water trickles, bright colours filled with paper, colourful floating clouds. Painted by Hou Beiren in the Old Apricot Villa at the age of 101."
+    seals: Hou Beiren's Seal (square intaglio), Old Apricot Villa (square relief) Missing 3
+    figure:
+      - id: "Frost_autumn"
+
+  - id: 4
+    title: Autumn Mountain Covered in Red | 秋山紅遍
+    artist: Hou Beiren
+    year: 2016
+    medium: Ink and colour on paper
+    dimensions: 74.3 cm × 143.8 cm
+    collection: University Museum and Art Gallery, HKU
+    provenance: Donated by Hou Beiren in November 2019
+    catalogue: HKU.P.2019.2458
+    inscription: "Autumn Mountain Covered in Red. Rowing a boat to find peace. Painted by Hou Beiren in the Old Apricot Villa at the age of 99."
+    seals: "Hou Beiren’s Seal (square relief), Old Apricot Villa (square relief)，Painted by Hou Beiren after Ninety (square relief) Missing 1"
+    figure:
+      - id: "Autumn_Mountain_Red"
+
+  - id: 5
+    title: Zen and the Sound of Pines | 禪罷且聽松
+    artist: Hou Beiren
+    year: 2014
+    medium: Ink and colour on paper
+    dimensions: 102.3 cm × 67.7 cm
+    collection: University Museum and Art Gallery, HKU
+    provenance: Donated by Hou Beiren in November 2019
+    catalogue: HKU.P.2019.2457
+    inscription: "Zen and the Sound of Pines. Painted by Hou Beiren in the Old Apricot Villa at the age of 97."
+    seals: "Old Apricot Villa (square relief)，Hou (square intaglio), Beiren (square relief), Painted by Hou Beiren after Ninety (square relief)"
+    figure:
+      - id: "Zen_pines"

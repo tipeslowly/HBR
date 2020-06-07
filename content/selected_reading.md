@@ -1,8 +1,7 @@
 ---
-label: 8
 title: Selected Reading List
 subtitle:
-weight: 80
+weight: 199
 type: essay
 abstract:
 ---
